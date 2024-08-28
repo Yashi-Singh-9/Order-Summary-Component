@@ -82,7 +82,7 @@ body {
 
 .music div{    margin-left: 20px;   }
 
-.music div h4{
+.music div h3{
     color: var(--dark-blue);
     font-weight: 900;
 }
