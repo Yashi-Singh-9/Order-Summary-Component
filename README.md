@@ -3,9 +3,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/52d66181-773b-4c2e-8c4f-dac4e9ac1dbe/deploy-status)](https://app.netlify.com/sites/order-summary-component-solutions/deploys)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge%20Complete-brightblue)](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 [![GitLab](https://img.shields.io/badge/Repository-GitLab-blue)](https://gitlab.com/Yashi-Singh-9/order-summary-component.git)
-[![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/order-summary-component)](https://gitlab.com/Yashi-Singh-9/order-summary-component/commit)
-[![Updates](https://img.shields.io/github/issues-pr/author/Yashi-Singh-9/order-summary-component)](https://gitlab.com/Yashi-Singh-9/order-summary-component/pulls)
-
+[![Last Commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/order-summary-component)](https://gitlab.com/Yashi-Singh-9/order-summary-component/commit)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://gitlab.com/Yashi-Singh-9/order-summary-component/-/issues)
+[![MIT License](https://img.shields.io/gitlab/license/Yashi-Singh-9/order-summary-component)](https://opensource.org/licenses/MIT)
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -19,8 +19,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [Contributing](#contributing)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -61,16 +61,16 @@ For details on the style guide used in this project, please refer to the [Style 
 
 ### What I learned
 
-Through this project, I improved my skills in creating responsive layouts and managing hover states. Using CSS custom properties made it easier to manage colors and themes across the site. Here’s an example of some CSS I'm particularly proud of:
-
-### Continued development
-
-I plan to continue refining my skills in CSS Grid and exploring advanced responsive design techniques. I also want to experiment with JavaScript to add dynamic features to static designs.
+Through this project, I improved my skills in creating responsive layouts and managing hover states. Using CSS custom properties made it easier to manage colors and themes across the site. 
 
 ### Useful resources
 
 - [The Markdown Guide](https://www.markdownguide.org/) - A great resource for learning how to write effective markdown.
 - [CSS Tricks: Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A helpful guide on using Flexbox for layout design.
+
+## Contributing
+
+For Contributions please refer to [Contributing File](contributing.md)
 
 ## Author
 
