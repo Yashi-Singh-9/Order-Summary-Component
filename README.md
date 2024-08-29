@@ -5,7 +5,8 @@
 [![GitLab](https://img.shields.io/badge/Repository-GitLab-blue)](https://gitlab.com/Yashi-Singh-9/order-summary-component.git)
 [![Last Commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/order-summary-component)](https://gitlab.com/Yashi-Singh-9/order-summary-component/commit)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://gitlab.com/Yashi-Singh-9/order-summary-component/-/issues)
-[![MIT License](https://img.shields.io/gitlab/license/Yashi-Singh-9/order-summary-component)](https://opensource.org/licenses/MIT)
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
