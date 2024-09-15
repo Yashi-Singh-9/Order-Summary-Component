@@ -4,7 +4,6 @@
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge%20Complete-brightblue)](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 [![Github](https://img.shields.io/badge/Repository-GitLab-blue)](https://github.com/Yashi-Singh-9/Order-Summary-Component.git)
 [![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Order-Summary-Component/main?cacheSeconds=60)](https://github.com/Yashi-Singh-9/Order-Summary-Component/commits/main)
-
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 
@@ -67,6 +66,10 @@ Through this project, I improved my skills in creating responsive layouts and ma
 
 - [The Markdown Guide](https://www.markdownguide.org/) - A great resource for learning how to write effective markdown.
 - [CSS Tricks: Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A helpful guide on using Flexbox for layout design.
+
+## Contributing
+
+For Contribution please refer to [Contribution File](CONTRIBUTING.md)
 
 ## Author
 
