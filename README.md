@@ -3,7 +3,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/52d66181-773b-4c2e-8c4f-dac4e9ac1dbe/deploy-status)](https://app.netlify.com/sites/order-summary-component-solutions/deploys)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge%20Complete-brightblue)](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 [![Github](https://img.shields.io/badge/Repository-GitLab-blue)](https://github.com/Yashi-Singh-9/Order-Summary-Component.git)
-![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Order-Summary-Component?cacheSeconds=60)
+[![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Order-Summary-Component?cacheSeconds=60)](https://github.com/Yashi-Singh-9/Order-Summary-Component/commit)
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 
