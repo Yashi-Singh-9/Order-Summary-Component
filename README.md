@@ -2,9 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/52d66181-773b-4c2e-8c4f-dac4e9ac1dbe/deploy-status)](https://app.netlify.com/sites/order-summary-component-solutions/deploys)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge%20Complete-brightblue)](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
-[![GitLab](https://img.shields.io/badge/Repository-GitLab-blue)](https://gitlab.com/Yashi-Singh-9/order-summary-component.git)
-[![Last Commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/order-summary-component)](https://gitlab.com/Yashi-Singh-9/order-summary-component/commit)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://gitlab.com/Yashi-Singh-9/order-summary-component/-/issues)
+[![Github](https://img.shields.io/badge/Repository-GitLab-blue)](https://github.com/Yashi-Singh-9/Order-Summary-Component.git)
+![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Order-Summary-Component?cacheSeconds=60)
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 
@@ -44,7 +43,6 @@ Users should be able to:
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-component-Euhi2OlYk6)
 - Live Site URL: [Order Summary Component Live](https://order-summary-component-solutions.netlify.app/)
-- Repository URL: [GitLab Repository](https://gitlab.com/Yashi-Singh-9/order-summary-component.git)
 
 ## Style Guide
 
@@ -68,10 +66,6 @@ Through this project, I improved my skills in creating responsive layouts and ma
 
 - [The Markdown Guide](https://www.markdownguide.org/) - A great resource for learning how to write effective markdown.
 - [CSS Tricks: Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A helpful guide on using Flexbox for layout design.
-
-## Contributing
-
-For Contributions please refer to [Contributing File](contributing.md)
 
 ## Author
 
