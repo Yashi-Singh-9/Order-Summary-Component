@@ -3,9 +3,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/52d66181-773b-4c2e-8c4f-dac4e9ac1dbe/deploy-status)](https://app.netlify.com/sites/order-summary-component-solutions/deploys)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge%20Complete-brightblue)](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 [![Github](https://img.shields.io/badge/Repository-GitLab-blue)](https://github.com/Yashi-Singh-9/Order-Summary-Component.git)
-[![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Order-Summary-Component/main?cacheSeconds=60)](https://github.com/Yashi-Singh-9/Order-Summary-Component/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Order-Summary-Component/main?cacheSeconds=30)](https://github.com/Yashi-Singh-9/Order-Summary-Component/commits/main)
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
-
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
