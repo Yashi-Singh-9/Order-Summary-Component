@@ -6,14 +6,14 @@ Thank you for your interest in contributing to the Order Summary Card project! W
 
 1. **Fork the Repository**
    
-   Start by forking the [Order Summary Card repository](https://gitlab.com/Yashi-Singh-9/order-summary-component.git) to your own GitLab account.
+   Start by forking the [Order Summary Card repository](https://github.com/Yashi-Singh-9/Order-Summary-Component.git) to your own GitLab account.
 
 2. **Clone Your Fork**
 
    Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/order-summary-component.git
+   git clone https://github.com/Yashi-Singh-9/Order-Summary-Component.git
    ```
 
 3. **Create a Branch**
