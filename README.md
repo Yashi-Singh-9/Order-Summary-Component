@@ -43,7 +43,7 @@ This project focuses on building a responsive order summary card component that 
 
 #### Mobile Design
 
-<img src="design/mobile-design.png" height="600" width="auto">
+<img src="design/Mobile-Design.png" height="600" width="auto">
 
 ---
 
