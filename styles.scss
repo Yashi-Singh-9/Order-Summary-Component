@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+$pale-blue: hsl(225, 100%, 94%);
+$bright-blue: hsl(245, 75%, 52%);
+$very-pale-blue: hsl(225, 100%, 98%);
+$desaturated-blue: hsl(224, 23%, 55%);
+$dark-blue: hsl(223, 47%, 23%);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: $pale-blue url(images/pattern-background-desktop.svg) no-repeat;
+    background-size: contain;
+
+    @media (max-width: 768px) {
+        background: $pale-blue url(images/pattern-background-mobile.svg) no-repeat;
+        background-size: contain;
+    }
+}
+
+.order-summary-card{
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;
+    max-width: 500px;
+    width: 100%;
+    overflow: hidden;
+    margin: 80px auto 10px auto;
+
+    @media (max-width: 540px) {
+        width: 90%;
+    }
+
+    img{
+        width: 100%;
+    }
+
+    .content{
+        h2{
+            font-weight: 900;
+            color: $dark-blue;
+        }
+
+        .summary{
+            color: $desaturated-blue;
+            max-width: 350px;
+            width: 100%;
+            font-size: 1.15rem;
+            margin: 0 auto;
+
+            @media (max-width: 345px) {
+                width: 90%;
+                font-size: 1rem;
+            }
+        }
+
+        .plan-info{
+            background-color: $very-pale-blue;
+
+            @media (max-width: 425px) {
+                width: 90%;
+                margin: 0 auto;
+            }
+
+            @media (max-width: 345px) {
+                flex-direction: column;
+                gap: 1.2rem;
+            }
+
+            .plan{
+                img{
+                    height: 3rem;
+                    width: 3rem;
+                }
+
+                .info{
+                    .plan-type{
+                        color: $dark-blue;
+                        font-weight: 900;
+                        font-size: 1.2rem;
+
+                        @media (max-width: 425px) {
+                            font-size: 1rem;
+                        }
+                    }
+
+                    .plan-price{
+                        color: $desaturated-blue;
+                        margin-left: -1rem !important;
+
+                        @media (max-width: 425px) {
+                            margin-left: unset;
+                        }
+                    }
+                }
+            }
+
+            .change,
+            .change:visited{
+                color: $bright-blue;
+                font-weight: 700;
+                transition: all 0.3s ease;
+
+                &:hover{
+                    text-decoration: none;
+                    color: lighten($bright-blue, 12%);
+                }
+            }
+        }
+
+        .btn{
+            margin: 0 auto;            
+            width: 100%;
+            font-size: 1.1rem;
+
+            @media (max-width: 425px) {
+                width: 90%;
+            }
+        }
+
+        .proceed-btn{
+            font-family: 'Red Hat Display', sans-serif;            
+            font-weight: 700;
+            background-color: $bright-blue;
+            box-shadow: 0 8px 22px lighten($bright-blue, 10%);
+            transition: all 0.3s ease;
+
+            &:hover{
+                background-color: lighten($bright-blue, 10%);
+                transform: scale(1.02);
+            }
+        }
+
+        .cancel-btn{
+            color: $desaturated-blue;
+            font-family: 'Red Hat Display', sans-serif;            
+            font-weight: 700;
+
+            &:hover{
+                color: $dark-blue;
+            }
+        }
+    }
+}
+
+footer{
+    color: $bright-blue;
+
+    a,
+    a:visited{
+        color: $dark-blue;
+    }
+}
